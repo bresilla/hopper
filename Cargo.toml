@@ -1,6 +1,6 @@
 [package]
-name = "dister"
-authors = ["Jackson Novak <ogloooglooagla@tutanota.com>"]
+name = "hopper"
+authors = ["Trim Bresilla <trim.bresilla@gmail.com>"]
 version = "1.4.0"
 edition = "2021"
 

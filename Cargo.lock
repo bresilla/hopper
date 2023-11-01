@@ -156,19 +156,6 @@ dependencies = [
 ]
 
 [[package]]
-name = "dister"
-version = "1.4.0"
-dependencies = [
- "clap",
- "colored",
- "dirs",
- "hostname",
- "serde",
- "toml",
- "users",
-]
-
-[[package]]
 name = "equivalent"
 version = "1.0.1"
 source = "registry+https://github.com/rust-lang/crates.io-index"
@@ -223,6 +210,19 @@ name = "hermit-abi"
 version = "0.3.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"
 checksum = "443144c8cdadd93ebf52ddb4056d257f5b52c04d3c804e657d19eb73fc33668b"
+
+[[package]]
+name = "hopper"
+version = "1.4.0"
+dependencies = [
+ "clap",
+ "colored",
+ "dirs",
+ "hostname",
+ "serde",
+ "toml",
+ "users",
+]
 
 [[package]]
 name = "hostname"
